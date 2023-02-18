@@ -3,7 +3,10 @@
 #### *Please Note that Sedra processor is based on Sedra Quattro Architecture where any instruction consists of four words if you miss a single word this raises an error and the app notifies you of the violation*
 
 ### Here is the instruction set :
-#### add (destination register) (first operand register) (second operand register)           | ADD INSTRUCTION
+####  ADD INSTRUCTION | add (destination register) (first operand register) (second operand register)
+####  Subtract INSTRUCTION | sub (destination register) (first operand register) (second operand register) 
+####  And INSTRUCTION | and (destination register) (first operand register) (second operand register) 
+####  Or INSTRUCTION | and (destination register) (first operand register) (second operand register) 
 
 ## Getting Started
 
