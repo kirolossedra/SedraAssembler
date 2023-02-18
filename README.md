@@ -8,6 +8,8 @@
 ####  And INSTRUCTION : mullog (destination register) (first operand register) (second operand register) 
 ####  Or INSTRUCTION : addlog (destination register) (first operand register) (second operand register) 
 
-## The instructions must start with start SEDRA16 asm session and end with end SEDRA16 asm session
+## The instructions must start with >start SEDRA16 asm session 
+## and end with >end SEDRA16 asm session
+## > is for illustration and not accepted in assembly language
 
 
