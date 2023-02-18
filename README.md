@@ -1,6 +1,6 @@
 # Assembler for Sedra Processor an 8 bit processor
 
-A new Flutter project.
+## Here is the instruction set :
 
 ## Getting Started
 
