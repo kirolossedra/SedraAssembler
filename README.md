@@ -1,6 +1,6 @@
 # Assembler for Sedra Processor an 8 bit processor
 
-## Here is the instruction set :
+### Here is the instruction set :
 
 ## Getting Started
 
