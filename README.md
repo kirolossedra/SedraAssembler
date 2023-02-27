@@ -13,7 +13,11 @@
 ```
 start SEDRA16 asm session
 ```
-## and end with >end SEDRA16 asm session
+## and end with
+
+```
+end SEDRA16 asm session
+```
 ## > is for illustration and not accepted in assembly language
 
 
